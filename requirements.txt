@@ -1,3 +1,6 @@
  langchain==0.3.11
  langchain-openai==0.2.12
  python-dotenv
+ huggingface_hub==0.26.5
+ langchain-community==0.3.11
+ transformers==4.46.3
